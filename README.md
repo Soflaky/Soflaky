@@ -8,7 +8,7 @@
 
 - ⚡ A fact to add **I'm a CTF player**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
