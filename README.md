@@ -3,12 +3,6 @@
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/653185/screenshots/3701461/hacker.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Soflaky&label=Profile%20views&color=0e75b6&style=flat" alt="Soflaky" /> </p>
-
-- 🌱 I’m currently learning **Web development and CTF**
-
-- ⚡ A fact to add **I'm a CTF player**
-
-
 <p align="left">
 </p>
 
