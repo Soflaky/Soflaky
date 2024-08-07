@@ -1,7 +1,4 @@
 <h1 align="center">I'm SoFlaKy</h1>
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/653185/screenshots/3701461/hacker.gif">
-
-
 <p align="left">
 </p>
 
